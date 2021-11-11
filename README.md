@@ -7,6 +7,4 @@
 - 👯 I’m looking to collaborate on **any FP stuff or coding contests**.
 - 📫 How to reach me: *juro.trappl@gmail.com*.
 - 😄 Pronouns: he/him/his.
-- ⚡ Fun fact: type 1 diabetic, Dungeons & Dragons DM, MMA enthusiast and self-proclaimed philosopher.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jurajtrappl&label=Profile%20views&color=0e75b6&style=flat" alt="jurajtrappl" /> </p>
+- ⚡ Fun fact: type 1 diabetic, Dungeons & Dragons DM, MMA enthusiast and self-proclaimed philosopher

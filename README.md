@@ -1,6 +1,7 @@
 ### Hey, 
 
-- 🎓 I'm currently studying **Programming and software systems** at **Charles University, Prague**.
+- 🎓 I got a bachelor's degree in **Programming and software systems** from **Charles University, Prague**.
+- 🎓 I'm pursuing a master's degree in **Artificial intelligence (AI)** from **Charles University, Prague**.
 - 🔥 I'm currently interested in **AI, FP, DDD**.
 - 🔭 I’m currently working at *ModemTec*.
 - 🌱 I’m currently learning **functional programming paradigm**.

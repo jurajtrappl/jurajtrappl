@@ -6,4 +6,4 @@
 - 🔭 I’m currently working at *ModemTec*.
 - 📫 How to reach me: *juro.trappl@gmail.com*.
 - 😄 Pronouns: he/him/his.
-- ⚡ Fun fact: type 1 diabetic, Dungeons & Dragons DM, MMA enthusiast and self-proclaimed philosopher
+- ⚡ Fun fact: type 1 diabetic, Dungeons & Dragons DM, MMA enthusiast

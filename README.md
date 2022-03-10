@@ -5,5 +5,3 @@
 - 🔥 I'm currently interested in **neuroscience & cognitive science**.
 - 🔭 I’m currently working at *ModemTec*.
 - 📫 How to reach me: *juro.trappl@gmail.com*.
-- 😄 Pronouns: he/him/his.
-- ⚡ Fun fact: type 1 diabetic, Dungeons & Dragons DM, MMA enthusiast

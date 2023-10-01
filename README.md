@@ -12,6 +12,8 @@
 
 #### Current personal projects
 
+Outside of my school studies and work commitments, I enthusiastically engage in various endeavors, primarily centered around my passion for programming and software systems, as well as exploring the world of artificial intelligence. I view these as valuable toolsets, not merely as final products. Through these projects, I strive to discover my ideal specialization while firmly believing in the importance of translating theory into practical applications. My hope is that, through these endeavors, I might create something that others will find not only useful but also enjoyable, contributing to the ever-evolving landscape of technology and innovation.
+
 *Cashire*
 
 My friend and I, both former classmates, are embarking on an exciting journey into the realm of finance and quantitative trading. Our endeavor blends conventional techniques with cutting-edge AI technology to construct am automated trading system. We employ traditional methods for primary signal generation, while harnessing the power of AI models for precise risk assessment and optimal capital allocation.

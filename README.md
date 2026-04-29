@@ -8,4 +8,4 @@
 
 #### Work
 
-- I'm Python backend developer at the [National technical library](https://www.techlib.cz/en/) and [CESNET](https://www.cesnet.cz/?lang=en).
+- I'm Python backend developer at the [National technical library](https://www.techlib.cz/en/).
